@@ -2,3 +2,4 @@ info.log
 data.log
 images/
 !file2.txt
+*.txt
